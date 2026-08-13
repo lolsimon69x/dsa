@@ -1,0 +1,12 @@
+1. Getting Started(Data Structures and Sorting)
+	|--> Chapter Introduction
+	|--> Basic Time Complexity
+	|--> Implement Dynamic Arrays
+		|--> Array (Sequential Storage)
+		|--> Dynamic Array Code Implementation
+			|--> Key Points
+				|--> Automatic Expansion and Shrinking
+				|--> Index Out-of-Bounds Check
+				|--> Avoid Memory Leak When Deleting Elements
+				|-->
+
