@@ -11,5 +11,9 @@
 	|--> Implement Double/Single linked list
 		|--> Linked list (Chain storage)
 		|--> Linked list code implementation [to be implemented]
+			|--> Key Points
+				|--> Keep Reference to Both Head and Tail
+				|--> Dummy Head and Tail Nodes
+				|--> Memory Leak?
 
 
