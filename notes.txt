@@ -18,14 +18,19 @@
 	|--> Array and LinkedList Variations
 		|--> Circular Array Technique and Implementation
 		|--> Skip List Basics
-        |--> BitMap Principles and Implementation
-    |--> Implement Queue and Stack
-        |--> Queue/Stack Basic
-        |--> Implemnet Queue/Stack with Linked List
-        |--> Implement Queue/Stack with Array
-        |--> Deque Implementation
-    |--> Implement Hashmap
-        |--> Basic Concept of HashMap
-        |--> Implement HashMap with Separate Chaining
-        |--> Key Points to Implement Linear Probing
-        |--> Two Implementations of Linear Probing
+                |--> BitMap Principles and Implementation
+        |--> Implement Queue and Stack
+                |--> Queue/Stack Basic
+                |--> Implemnet Queue/Stack with Linked List
+                |--> Implement Queue/Stack with Array
+                |--> Deque Implementation
+        |--> Implement Hashmap
+                |--> Basic Concept of HashMap
+                |--> Implement HashMap with Separate Chaining
+                |--> Key Points to Implement Linear Probing
+                |--> Two Implementations of Linear Probing
+        |--> Hash Table Variations
+                |--> Use Linked List to Enhance Hash Table (LinkedHashMap)
+                |--> Use Array to Enhance Hash Table (ArrayHashMap)
+                |--> Bloom Filter Implementation
+
